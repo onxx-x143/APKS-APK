@@ -17,8 +17,11 @@
 
 ## Installation
 1. Download this repository or copy the code below.
-2. Save as `onxx_apk_tool.py`
-3. Install dependencies:
+2. Save as
+ ```
+ onxx_apk_tool.py
+ ```
+6. Install dependencies:
 ```
 pip install colorama pyfiglet
 ```
@@ -29,4 +32,5 @@ cd APKS-APK
 chmod +x main.sh
 bash main.sh
 ```
-                by ŐŃXX-X143
+              
+by ŐŃXX-X143
